@@ -7,22 +7,18 @@ Features
     Simple command-line interface
     Automatic win and tie detection
 
-Requirements
+Requirements:
 
     Python 3.x
 
 How to Run
 
-    Clone the Repository:
+Clone the Repository:
 
-    sh
-
-git clone git@github.com:OkuhleMwelase/Tic-Tac-Toe-Python.git
-cd Tic-Tac-Toe-Python
+    git clone git@github.com:OkuhleMwelase/Tic-Tac-Toe-Python.git
+    cd Tic-Tac-Toe-Python
 
 Run the Script:
-
-sh
 
     python tic_tac_toe.py
 
@@ -33,9 +29,8 @@ How to Play
     To make a move, enter the row and column numbers (0, 1, or 2) separated by a space.
     The game continues until there is a winner or the board is full (resulting in a tie).
 
-Example Gameplay
+Example Gameplay:
 
-sh
 
   |   |  
 -----
@@ -85,7 +80,7 @@ X | X | X
 
 Player X wins!
 
-Code Structure
+Code Structure:
 
     print_board(board): Function to print the current state of the board.
     check_winner(board): Function to check if there is a winner.
