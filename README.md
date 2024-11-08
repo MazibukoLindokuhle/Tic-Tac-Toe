@@ -15,7 +15,7 @@ How to Run
 
 Clone the Repository:
 
-    git clone git@github.com:OkuhleMwelase/Tic-Tac-Toe-Python.git
+    git clone git@github.com:MazibukoLindokuhle/Tic-Tac-Toe-Python.git
     cd Tic-Tac-Toe-Python
 
 Run the Script:
